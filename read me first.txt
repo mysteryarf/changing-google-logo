@@ -1,0 +1,16 @@
+|    |   _______                  _______
+|    |  |_______| |      |       |       |
+|____|  |______   |      |       |       |
+|    |  |______|  |      |       |       |
+|    |  |_______  |      |       |       |
+|    |  |_______| |_____ |______ |_______|
+i am just a beginer,
+
+=>open console on google chrome.
+=>open the-code from repositories
+=>copy the code and paste it in the console
+=>hit enter
+=>you get a kitten's pic over there cause i love kittens a lot u can change it by alterring the link u see in those coding. Chane it to any pictures link and enjoy.....
+=>this is a DOM. So it wont bring any change to the html... and u havent hacvked it so no changes for anyone and things will change to its normal form as soon as u hit refresh.
+=>this is a set of javascript which you will made to understand later and yes they alter the contents without altering the html..
+HAVE A NICE DAY AHEAD
